@@ -60,14 +60,7 @@
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
-<<<<<<< HEAD
-* Tony Merrien.
-* Rémi Plantade.
-* A Louis Chevalier.
-* Pancher Pierre-louis.
-* Yin Xia.
-* Jiani Yao.
-=======
+
 * Tony Merrien,
 * Rémi Plantade,
 * A Louis Chevalier,
@@ -77,4 +70,4 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Simon Roger.
 * Virgil Deschamps.
 * Yin Xia.
->>>>>>> 08b3f9e3de2f53dc0af141177eb05f161ba65d8f
+
